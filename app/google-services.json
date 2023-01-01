@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "883987693279",
+    "firebase_url": "https://home-automation-384e2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "home-automation-384e2",
+    "storage_bucket": "home-automation-384e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883987693279:android:03b81e1aed54935fa5f36a",
+        "android_client_info": {
+          "package_name": "com.example.projecthomeautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883987693279-fne5apl4h3fb88mjqa24knshinrj5svb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMEAGpkyPvj90POgAAk9uUAYAPifZE0K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883987693279-fne5apl4h3fb88mjqa24knshinrj5svb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
